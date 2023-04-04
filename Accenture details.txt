@@ -1,5 +1,0 @@
-Accenture portal login details:
-{
-   name: "anil23.linux@gmail.com"
-   pwd: "Aaldpc0181e@!"
-   }
