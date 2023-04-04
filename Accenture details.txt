@@ -1,4 +1,5 @@
 Accenture portal login details:
-
-anil23.linux@gmail.com
-Aaldpc0181e@!
+{
+   name: "anil23.linux@gmail.com"
+   pwd: "Aaldpc0181e@!"
+   }
